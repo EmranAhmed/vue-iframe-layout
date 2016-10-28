@@ -1,6 +1,6 @@
-# layout
+# vue-iframe-layout testing
 
-> Simple IFrame Content data testing
+> Simple IFrame Content data testing just open index.html file and check how it works
 
 ## Build Setup
 
